@@ -1,0 +1,4 @@
+dracula-theme.theme-dracula@2.25.1
+pkief.material-icon-theme@5.39.0
+ritwickdey.liveserver@5.7.10
+xabikos.javascriptsnippets@1.8.0
